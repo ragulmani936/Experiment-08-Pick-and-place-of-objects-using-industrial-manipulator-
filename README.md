@@ -1,8 +1,8 @@
-# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
-#  NAME: SARAN S S
-#  REG NO: 212221220048
-#  DATE :22-04-20204
-#  DEPT INFORMATION TECHNOLOGY
+## Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+##  NAME:  Ragul M
+##  REG NO: 212221230080
+##  DATE : 22-04-20204
+##  DEPT : B.TECH - AIDS
 
 # Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
